@@ -81,4 +81,4 @@
 |FORCE_STOP|NORMAL|按键或者其他方式触发退出配网||
 
 ### 4.3 状态转换图
-![state](state.jpg)
+![state](/doc/state.jpg)
